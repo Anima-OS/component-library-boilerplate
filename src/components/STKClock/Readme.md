@@ -1,0 +1,5 @@
+Clock example:
+
+```js
+<STKClock />
+```
